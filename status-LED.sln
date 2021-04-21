@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "status-LED", "status-LED.csproj", "{64FB62FF-DA93-4FBD-B8A5-71232C151EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64FB62FF-DA93-4FBD-B8A5-71232C151EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FB62FF-DA93-4FBD-B8A5-71232C151EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FB62FF-DA93-4FBD-B8A5-71232C151EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FB62FF-DA93-4FBD-B8A5-71232C151EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC73731-027A-467C-B853-AB93F30559F9}
+	EndGlobalSection
+EndGlobal
