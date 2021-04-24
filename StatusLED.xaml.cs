@@ -4,7 +4,7 @@ using System.Windows.Media;
 
 namespace status_LED
 {
-    public partial class StatusLed : StatusLED
+    public partial class StatusLed
     {
         public StatusLed()
         {
